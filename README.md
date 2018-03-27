@@ -5,6 +5,6 @@ Improvements required: Dynamic allocation of file sizes, improved client-side va
 
 Commands:
 * list: list all files in the serverFiles directory
-* get <filename>: retrieve a file from serverFiles (placing it in clientFiles)
-* put <filename>: put a file from clientFiles in serverFiles
+* get &lt;filename&gt;: retrieve a file from serverFiles (placing it in clientFiles)
+* put &lt;filename&gt;: put a file from clientFiles in serverFiles
 * bye: terminate client connection
